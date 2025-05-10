@@ -38,9 +38,7 @@ install.packages("tibble")
 You can also run the packages.R file included in this repo to install them all at once.
 
 ---
-Absolutely! Here's that entire section, properly formatted in **Markdown** (`README.md`-ready):
 
-````markdown
 ## 🛠️ How to Run the App
 
 1. Clone or download this repository.
@@ -78,7 +76,7 @@ Feel free to **use, modify, and share** it — just include credit. ✌️
 
 ---
 
-## 🙋🏽‍♀️ Created By
+## **🙋🏽‍♀️ Created By**
 
 **Faithfulness Issijude**, **Toochi Uduma** and **Demilade Olagunju**
 *Made with 💙 for learning, fun, and community impact.*
