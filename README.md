@@ -1,6 +1,4 @@
----
-
-# Word Count Analyzer – Shiny App
+## Word Count Analyzer – Shiny App
 
 This is a simple Shiny application that analyzes a block of text, providing:
 
@@ -74,8 +72,7 @@ The app will launch in your default web browser.
 
 ## 📸 Screenshot
 
-
-![2025-05-10](https://github.com/user-attachments/assets/372d4cba-56da-413a-bf39-1d125dec7414)
+![2025-05-10](https://github.com/user-attachments/assets/2bc4d796-cb06-44cf-90b9-16734ea62382)
 
 
 ## 📃 License
