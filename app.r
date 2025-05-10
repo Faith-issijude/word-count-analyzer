@@ -1,16 +1,5 @@
-install.packages("shiny")
-install.packages("tidyverse")
-install.packages("tidytext")
-install.packages("dplyr")
-install.packages("purrr")
-install.packages("stringr")
-install.packages("ggplot2")
-install.packages("tibble")
+# Install required packages from packages.r if not already installed
 
-# Install required packages if not already installed
-# install.packages("shiny")
-# install.packages("tidyverse")
-# install.packages("tidytext")
 
 library(shiny)
 library(tidyverse)
@@ -20,7 +9,6 @@ library(purrr)      # for discard()
 library(stringr)    # for str_split()
 library(ggplot2)    # for plots
 library(tibble)     # for tibble()
-library(tidytext)   # already used
 
 
 
