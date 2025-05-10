@@ -1,0 +1,8 @@
+install.packages("shiny")
+install.packages("tidyverse")
+install.packages("tidytext")
+install.packages("dplyr")
+install.packages("purrr")
+install.packages("stringr")
+install.packages("ggplot2")
+install.packages("tibble")
